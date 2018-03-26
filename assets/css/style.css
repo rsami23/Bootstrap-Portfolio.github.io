@@ -1,0 +1,97 @@
+/* Background Image */
+body {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wXLQrS2Z9xwnbB54PD9Zzj2eYhqNH4xWE_bspahVjQ0OXlNr");
+}
+
+/* Logo and Nav */
+
+.navbar-default {
+    background-color: #fff;
+}
+
+.navbar-header {
+    background-color: #4aaaa5;
+    
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    text-align: center;
+}
+
+.navbar-fixed-bottom {
+    text-align: center;
+    background-color: #777;
+    padding: 10px;
+    border-top: solid 5px #4aaaa5;
+    color: white;
+}
+
+/* About me Page */
+
+.aboutme-photo {
+    width: 325px;
+    height: 400px;
+    float: left;
+    padding-right: 10px;
+}
+
+p {
+    line-height: 40px;
+}
+
+.content {
+    border: solid 1px #777;
+    padding: 20px;
+    margin: 20px auto;
+    background: #fff;
+}
+
+
+
+/* Contact Page */
+
+.form {
+    border: solid 1px #777;
+    padding: 20px;
+    float: left;
+    margin-right: 20px;
+    background: #fff;
+}
+
+.social {
+    border: solid 1px #777;
+    padding: 20px;
+    overflow: auto;
+    background: #fff;
+}
+
+/* Portfolio Page */
+
+h2 {
+    color: #4aaaa5;
+    font-size: 25px;
+    
+}
+
+.portfolio {
+    border: solid 1px #777;
+    padding: 20px;
+    background-color: white;
+}
+
+.title {
+    z-index: 2;
+    color: white;
+    text-align: center;
+    background-color: #4aaaa5;
+    padding: 15px auto;
+    width: 100%;
+    position: absolute;
+    bottom: 15%;
+}
+
+.gallery-image {
+    padding-bottom: 10px;
+    position: relative;
+}
