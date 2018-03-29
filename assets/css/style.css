@@ -94,4 +94,5 @@ h2 {
 .gallery-image {
     padding-bottom: 10px;
     position: relative;
+    height: 100%;
 }
